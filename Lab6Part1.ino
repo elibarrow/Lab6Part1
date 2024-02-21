@@ -1,8 +1,3 @@
-/*
-This is a demostration of the capabilities of Git and GitHub.
-*/
-
-
 const int trigPin = 2;  
 const int echoPin = 3; 
 
