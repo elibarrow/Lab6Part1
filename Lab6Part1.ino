@@ -1,6 +1,3 @@
-/*
-This is a demostration of the capabilites of Git and GitHub.
-*/
 
 
 
